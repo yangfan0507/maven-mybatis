@@ -7,5 +7,5 @@ import com.yangfan.entity.User;
  * @Date: 2021/11/9 19:32
  */
 public interface UserDao {
-    User selectUserById(Integer id);
+    User selectUserById(Integer id );
 }
