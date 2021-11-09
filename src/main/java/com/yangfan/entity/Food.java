@@ -6,6 +6,6 @@ package com.yangfan.entity;
  */
 public class Food {
     private String foodName;
-    private String price;
+    private double price;
 
 }
